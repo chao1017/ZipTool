@@ -1,0 +1,5 @@
+D:\MyWork\APZipTool\APZip\APZip\bin\Debug\APZip.dll
+D:\MyWork\APZipTool\APZip\APZip\bin\Debug\APZip.pdb
+D:\MyWork\APZipTool\APZip\APZip\obj\Debug\APZip.dll
+D:\MyWork\APZipTool\APZip\APZip\obj\Debug\APZip.pdb
+D:\MyWork\APZipTool\APZip\APZip\obj\Debug\APZip.csprojResolveAssemblyReference.cache
